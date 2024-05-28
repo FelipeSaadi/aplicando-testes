@@ -15,3 +15,15 @@ Neste primeiro teste, foi selecionado 6 grupos de valores para testar o algoritm
 ### Usando MSTest
 
 ![alt text](image-2.png)
+
+## Unit Testing - Fluent Assertions
+
+Neste teste, foi utilizado Mock Objects para realizar testes unitários de consulta de crédito, mockando a implementação de CPF_INVALIDO, CPF_ERRO_COMUNICACAO, CPF_SEM_PENDENCIAS e CPF_INADIMPLENTE, garantindo que seja possível testar as entradas e saídas sem realizar a implmentação completa das funcionalidades.
+
+### Usando xUnit + Moq
+
+![alt text](image-3.png)
+
+### Usando xUnit + NSubstitute
+
+![alt text](image-4.png)
