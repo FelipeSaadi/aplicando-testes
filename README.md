@@ -1,4 +1,4 @@
-# unit-tests
+# Aplicando Testes Unitários
 
 ## Unit Testing + xUnit
 
@@ -7,3 +7,7 @@ Neste primeiro teste, foi selecionado 6 grupos de valores para testar o algoritm
 ### Usando xUnit
 
 ![alt text](image.png)
+
+### Usando NUnit
+
+![alt text](image-1.png)
