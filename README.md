@@ -11,3 +11,7 @@ Neste primeiro teste, foi selecionado 6 grupos de valores para testar o algoritm
 ### Usando NUnit
 
 ![alt text](image-1.png)
+
+### Usando MSTest
+
+![alt text](image-2.png)
