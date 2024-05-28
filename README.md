@@ -27,3 +27,11 @@ Neste teste, foi utilizado Mock Objects para realizar testes unitários de consu
 ### Usando xUnit + NSubstitute
 
 ![alt text](image-4.png)
+
+## Unit Testing - SpecFlow
+
+Neste teste, o foco é realizar testes baseado em BDD (Behavior Driven Development), no qual são criadas user stories (cenários com critérios) para validação dos métodos com as regras de negócio, e um template Step Definition para gerar os metódos que serão utilizados para validar a implementação. Ao executar os testes, cada um dos dados mapeados dos cenários é lido, e é validado se o resultado recebido é o mesmo do resultado mapeado no cenário.
+
+### Usando xUnit + SpecFlow
+
+![alt text](image-5.png)
